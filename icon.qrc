@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>img/3D_IMUArray.png</file>
+        <file>img/close.png</file>
+        <file>img/open.png</file>
+    </qresource>
+</RCC>
